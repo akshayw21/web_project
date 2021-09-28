@@ -25,6 +25,13 @@
       
   <cards/>
   <Realse/>
+  <hr>
+
+  <Card2/>
+  <videos/>
+  <tables/>
+  <Merch/>
+  <Form/>
 </div>
 </template>
 

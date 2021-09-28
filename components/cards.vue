@@ -75,7 +75,7 @@ p {
   font-size: 20px;
 }
 .one{
-  margin-top:5px;
+  margin-top:35px;
   width:500px;
   position:relative;
   top:0px;
